@@ -1,2 +1,2 @@
-# Learning_C-
+# Learning_C++
 Repository to keep track of learning C++
